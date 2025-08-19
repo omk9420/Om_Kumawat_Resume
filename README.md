@@ -5,7 +5,7 @@ Welcome to my professional resume repository 👋
 This repository contains my **latest resume** in PDF format.  
 You can view or download it directly here:  
 
-👉 [**Download Resume (PDF)**](./resume.pdf)  
+👉 [**Download Resume (PDF)**](https://github.com/omk9420/Om_Kumawat_Resume/raw/2ec6fc2b821ea351d9c6155beb0e63a1d2fdbf7e/Om_Kumawat_CV.pdf)  
 
 ---
 
